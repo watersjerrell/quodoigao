@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://onahzu.ionelberdin.com/sitemap.xml
